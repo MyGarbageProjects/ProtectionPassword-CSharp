@@ -1,5 +1,6 @@
 #English 
 The program is needed to protect your password.
+You can protect programs such as KeePassX,Steam ect.
 
 1# Create a complex password (> 100 characters, for example)
 
@@ -9,6 +10,7 @@ The program is needed to protect your password.
 
 #Russian
 Программа нужна для защиты своего пароля.
+Вы можете защитить такие программы как KeePassX,Steam и т.д.
 
 1# Создаем сложный пароль(>100 символов, к примеру)
 
