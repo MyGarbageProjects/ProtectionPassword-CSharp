@@ -19,11 +19,11 @@ You can protect programs such as KeePassX,Steam ect.
 3# профит
 
 #Screen program - Скриншоты программы
-Главное окно
+-Главное окно
 ![screenshot simple](https://github.com/lif0/ProtectionPassword/blob/master/for%20github/main.png)
 
-Fill the fields - Заполняем поля
+-Fill the fields - Заполняем поля
 ![screenshot simple](https://github.com/lif0/ProtectionPassword/blob/master/for%20github/make.png)
-Next - Дальше
+-Next - Дальше
 ![screenshot simple](https://github.com/lif0/ProtectionPassword/blob/master/for%20github/created.png)
 
