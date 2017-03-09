@@ -17,3 +17,6 @@ You can protect programs such as KeePassX,Steam ect.
 2# Создаем фаил в программе ProtectionPassword.exe
 
 3# профит
+
+#Screen program - Скриншоты программы
+![screenshot simple](https://github.com/lif0/ProtectionPassword/blob/master/for%20github/main.png)
