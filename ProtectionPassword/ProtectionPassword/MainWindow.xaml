@@ -1,0 +1,22 @@
+﻿<Window x:Class="ProtectionPassword.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProtectionPassword"
+        mc:Ignorable="d"
+        Title="Protected Password" Height="172.757" Width="490" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="MainGrid" Background="Gainsboro">
+        <Label x:Name="label" Content="Path to program:" HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Password:" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Select icon:" HorizontalAlignment="Left" Margin="10,68,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtPathToProgrammStart" HorizontalAlignment="Left" Height="20" Margin="150,13,0,0" VerticalAlignment="Top" Width="316"/>
+        <TextBox x:Name="txtPassCliboard" HorizontalAlignment="Left" Height="20" Margin="127,43,0,0" VerticalAlignment="Top" Width="339"/>
+        <TextBox x:Name="txtPathToIcon" HorizontalAlignment="Left" Height="20" Margin="150,73,0,0" VerticalAlignment="Top" Width="316" IsReadOnly="True"/>
+        <Button x:Name="button" Content="..." HorizontalAlignment="Left" Margin="127,73,0,0" VerticalAlignment="Top" Width="18" Click="button_Click"/>
+        <Button x:Name="button1" Content="Make" HorizontalAlignment="Left" Margin="10,102,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <Button x:Name="btnSelectExe" Content="..." HorizontalAlignment="Left" Margin="127,13,0,0" VerticalAlignment="Top" Width="18" Click="btnSelectExe_Click"/>
+
+    </Grid>
+</Window>
